@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coolf\\OneDrive\\Desktop\\Primer\\Prime\\Prime.csproj",
+      "projectUniqueName": "C:\\Users\\coolf\\OneDrive\\Desktop\\Primei\\Prime\\Prime.csproj",
       "projectName": "Prime",
-      "projectPath": "C:\\Users\\coolf\\OneDrive\\Desktop\\Primer\\Prime\\Prime.csproj",
+      "projectPath": "C:\\Users\\coolf\\OneDrive\\Desktop\\Primei\\Prime\\Prime.csproj",
       "packagesPath": "C:\\Users\\coolf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coolf\\OneDrive\\Desktop\\Primer\\Prime\\obj\\",
+      "outputPath": "C:\\Users\\coolf\\OneDrive\\Desktop\\Primei\\Prime\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\coolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
